@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER ANIMÉ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Amina%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,30&height=180&section=header&text=Hey%20there!%20I'm%20Amina%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Software+Engineering+Student+%F0%9F%8E%93;Fullstack+Developer+in+the+making+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF97C1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Software+Engineering+Student+%F0%9F%8E%93;Fullstack+Developer+in+the+making+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,7 +24,7 @@ class Amina:
         self.fun_fact  = "I'm afraid of C...🏃‍♀️"
 
     def say_hi(self):
-        print("Thanks for checking mu profile ! Maybe we can build something cool together ?")
+        print("Thanks for checking my profile! Maybe we can build something cool together?")
 
 me = Amina()
 me.say_hi()
@@ -59,7 +59,9 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am1nkv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+<div align="center">
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am1nkv&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF97C1&text_color=C9D1D9" />
 
 </div>
 
@@ -68,7 +70,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/am1nkv/.github/workflows/snake.yml" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/am1nkv/am1nkv/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -86,10 +88,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=am1nkv&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=am1nkv&style=for-the-badge&color=FF97C1&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,30&height=120&section=footer"/>
 
 </div>
