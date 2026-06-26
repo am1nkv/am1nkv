@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER ANIMÉ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,30&height=180&section=header&text=Hey%20there!%20I'm%20Amina%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,30&height=180&section=header&text=Hey%20there !%20I'm%20Amina%20&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF97C1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Software+Engineering+Student+%F0%9F%8E%93;Fullstack+Developer+in+the+making+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF97C1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Software+Engineering+Student;Fullstack+Developer+in+the+making...;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 </div>
