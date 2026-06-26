@@ -68,7 +68,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/am1nkv/am1nkv/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/am1nkv/.github/workflows/snake.yml" alt="Snake animation" />
 </div>
 
 ---
