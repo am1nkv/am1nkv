@@ -1,13 +1,12 @@
-# Ce fichier va dans : am1nkv/.github/workflows/snake.yml
-
 name: Generate Snake Animation
 
 on:
-  # Se lance automatiquement toutes les 12h
   schedule:
     - cron: "0 */12 * * *"
-  # Permet aussi de le lancer manuellement
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -15,7 +14,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate snake animation
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: am1nkv
@@ -24,9 +26,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update snake animation"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/am1nkv/am1nkv.git HEAD:output
