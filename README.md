@@ -5,14 +5,14 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=FF97C1&center=true&vCenter=true&repeat=true&width=620&height=55&lines=Software+Engineering+Student+🌸;Fullstack+Developer+in+the+making...+🌿;Always+learning%2C+always+building+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=FF97C1&center=true&vCenter=true&repeat=true&width=620&height=55&lines=Software+Engineering+Student;Fullstack+Developer+in+the+making...;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍%20Based%20in-France-FFB6C1?style=flat-square&labelColor=B5EAD7" />
-<img src="https://img.shields.io/badge/🌱%20Currently-Learning%20DevOps%20%26%20Cloud-B5EAD7?style=flat-square&labelColor=FFB6C1" />
-<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Python%20%26%20FastAPI-FFB6C1?style=flat-square&labelColor=B5EAD7" />
+<img src="https://img.shields.io/badge/%20Based%20in-France-FFB6C1?style=flat-square&labelColor=B5EAD7" />
+<img src="https://img.shields.io/badge/%20Currently-Learning%20DevOps%20%26%20Cloud-B5EAD7?style=flat-square&labelColor=FFB6C1" />
+<img src="https://img.shields.io/badge/%20Ask%20me%20about-Python%20%26%20FastAPI-FFB6C1?style=flat-square&labelColor=B5EAD7" />
 
 </div>
 
@@ -30,7 +30,7 @@ class Amina:
         self.fun_fact  = "I'm afraid of C...🏃‍♀️"
 
     def say_hi(self):
-        print("Thanks for checking my profile! Maybe we can build something cool together? 🌷")
+        print("Thanks for checking my profile! Maybe we can build something cool together? :D")
 
 me = Amina()
 me.say_hi()
