@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER (pink → pastel green gradient) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD6E0,100:B5EAD7&height=200&section=header&text=Hey%20there!%20I'm%20Amina&fontSize=30&fontColor=5A3E4B&animation=fadeIn&fontAlignY=36&desc=🌸%20code%20·%20coffee%20·%20curiosity%20🌿&descSize=14&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:B5EAD7&height=180&section=header&text=Hey%20there!%20I'm%20Amina&fontSize=30&fontColor=5A3E4B&animation=fadeIn&fontAlignY=32"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -18,7 +18,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6C1,100:B5EAD7&height=4"/>
 
-## 🌸 About Me
+## About Me
 
 ```python
 class Amina:
@@ -38,7 +38,7 @@ me.say_hi()
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B5EAD7,100:FFB6C1&height=4"/>
 
-## 🌿 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -63,7 +63,7 @@ me.say_hi()
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6C1,100:B5EAD7&height=4"/>
 
-## 🌷 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -77,14 +77,6 @@ me.say_hi()
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B5EAD7,100:FFB6C1&height=4"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/am1nkv/am1nkv/output/github-snake-pastel.svg" alt="Snake animation" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6C1,100:B5EAD7&height=4"/>
 
 ## 💌 Connect with me
 
