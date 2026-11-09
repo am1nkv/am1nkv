@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Boarding pass — Hi, I'm Amina. MIAGE student @ Dauphine–PSL, apprentice Consultant Decision Support @ Air France-KLM." />
+<img src="./assets/hero.svg" width="100%" alt="Boarding pass — Hi, I'm Amina. MIAGE student @ Dauphine–PSL, apprentice SWE @ Air France-KLM." />
 
 <br/>
 
@@ -15,7 +15,7 @@
 ### ✈️ &nbsp;Now boarding
 
 - 🎓 &nbsp;**Master MIAGE** (Business Informatics) at **Paris Dauphine–PSL**
-- 🛫 &nbsp;**Apprentice Consultant Decision Support** at **Air France-KLM**
+- 🛫 &nbsp;**Apprentice Decision Support Engineer** at **Air France-KLM**
 - 🧠 &nbsp;Heading towards **AI & data** — one commit at a time
 - 💬 &nbsp;Ask me about Python, data, fullstack, DevOps… or a good book
 
@@ -23,7 +23,7 @@
 
 ### 🧳 &nbsp;Carry-on
 
-​```python
+```python
 from dataclasses import dataclass
 
 
@@ -31,7 +31,7 @@ from dataclasses import dataclass
 class Amina:
     handle: str = "am1nkv"
     studying: str = "Master MIAGE @ Paris Dauphine-PSL"
-    working: str = "Apprentice @ Air France-KLM"
+    working: str = "Apprentice SWE @ Air France-KLM"
     speaks: tuple = ("French", "English", "Russian", "Kazakh")
     into: tuple = ("AI", "Data", "Fullstack", "DevOps", "Books", "Sports")
     fun_fact: str = "I'm afraid of C... 🏃‍♀️"
@@ -41,7 +41,7 @@ class Amina:
 
 
 Amina().say_hi()
-​```
+```
 
 <br/>
 
@@ -61,14 +61,5 @@ Amina().say_hi()
 </div>
 
 <br/>
-
-### 🐍 &nbsp;Contribution route
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/am1nkv/am1nkv/output/github-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/am1nkv/am1nkv/output/github-snake.svg" alt="Snake eating my contribution graph" />
-</picture>
-
-<br/><br/>
 
 <img src="./assets/footer.svg" width="100%" alt="Thanks for flying by — see you at the next commit" />
