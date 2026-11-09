@@ -17,7 +17,7 @@
 - 🎓 &nbsp;**Master MIAGE** (Business Informatics) at **Paris Dauphine–PSL**
 - 🛫 &nbsp;**Apprentice Decision Support Engineer** at **Air France-KLM**
 - 🧠 &nbsp;Heading towards **AI & data** — one commit at a time
-- 💬 &nbsp;Ask me about Python, data, fullstack, DevOps… or a good book
+- 💬 &nbsp;Feel free to discuss with me :)
 
 <br/>
 
